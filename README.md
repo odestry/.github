@@ -1,3 +1,3 @@
-# Contributing Guide
+# Odestry
 
-Contribution guide for projects.
+We build for better commerce.
