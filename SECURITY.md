@@ -1,4 +1,4 @@
-# Odestry Security
+# Security
 
 ## Reporting a Vulnerability
 
