@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-To report a security issue, please email security@blanklob.com with a detailed description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
+To report a security issue, please email weodestry@gmail.com with a detailed description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
 
 Please remember to include everything required for us to reproduce the issue, including but not limited to a publicly accessible git repository. All code samples shared with our Security team will only be used to verify and diagnose the issue and will not be publicly shared with anyone outside of Odestry's teams. Odestry's Security Team members may share information only within the Odestry teams on a need-to-know basis to fix the related issue.
 
