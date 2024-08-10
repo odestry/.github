@@ -1,1 +1,1 @@
-We build better commerce, together. Check our [contribution guidelines](https://github.com/odestry/.github/blob/main/CONTRIBUTING.md).
+A home for builders, developers, and entrepreneurs making cool stuff that matters. If you'd like to join the collective, we would love to have you, we have some exciting ideas for this community and could really use your help to bring them to life, regardless of your role. Check our [contribution guidelines](https://github.com/odestry/.github/blob/main/CONTRIBUTING.md).
